@@ -1,9 +1,11 @@
 ##Java Developer Internship
 
 ##About the repository:
+
 This repository contains all the tasks and projects that I have done during the internship at CodeVeda Technologies.
 
 ##Internship Details:
+
 Organization:CodeVeda Technologies
 Role:Java Development Intern(Remote)
 Duration: 1 month(09/07/2026 - 09/08/2026)
