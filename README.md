@@ -1,53 +1,62 @@
-##Java Developer Internship
+# Java Developer Internship
 
-##About the repository:
+## About the Repository
 
-This repository contains all the tasks and projects that I have done during the internship at CodeVeda Technologies.
+This repository contains all the tasks and projects that I completed during my Java Development Internship at Codveda Technologies.
 
-##Internship Details:
+## Internship Details
 
-Organization:CodeVeda Technologies
-Role:Java Development Intern(Remote)
-Duration: 1 month(09/07/2026 - 09/08/2026)
+- **Organization:** Codveda Technologies
+- **Role:** Java Development Intern (Remote)
+- **Duration:** 1 Month (09/07/2026 - 09/08/2026)
 
-##Technologoies and Concepts:
+## Technologies and Concepts
 
--Java
--Object Oriented Programming(OOP)
--Exception Handling
--Collection Framework
--JDBC
--File Handling
--Socket Programming(network)
--Multithreading
+- Java
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- Collections Framework
+- JDBC
+- File Handling
+- Socket Programming
+- Multithreading
 
-##Tasks
+## Tasks
 
+### Level 1 - Basic Java Tasks
 
-Level 1:BASIC JAVA TASKS
+I solved basic Java programming problems, such as recursion, to strengthen my programming logic and understand core Java concepts.
 
-I solved basic Java problems(Example: Recursion) here to build up simple programming logic which completed with core Java concepts.
+### Level 2 - Intermediate Java Tasks
 
+I developed the following projects:
 
-Level 2:INTERMEDIATE JAVA TASKS
+- Banking System
+- File Handling Application
+- Library Management System using JDBC
 
-I built A Banking System, A File Handling Exception and A Library Management System using JDBC concept.
+### Level 3 - Advanced Java Tasks
 
+I developed the following projects:
 
-Level 3:ADVANCED JAVA TASKS
-
-I built a multithreaded chat Application using socket concepts, And A Binary Search Tree where I implemented node creation, insertion, search,delete,traversal.
-
+- Multithreaded Chat Application using Socket Programming
+- Binary Search Tree Implementation
+  - Node creation
+  - Insertion
+  - Search
+  - Deletion
+  - In-order Traversal
+  - Pre-order Traversal
+  - Post-order Traversal
 
 ## How to Run
 
 1. Clone this repository.
 2. Open the project in IntelliJ IDEA.
-3. Run the required Main class.
+3. Run the required `Main` class.
 
- ## Author
+## Author
 
-Wasika Afrin
+**Wasika Afrin**
 
-Java Developer Intern
-
+Java Development Intern
