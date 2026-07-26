@@ -39,3 +39,16 @@ Level 3:ADVANCED JAVA TASKS
 I built a multithreaded chat Application using socket concepts, And A Binary Search Tree where I implemented node creation, insertion, search,delete,traversal.
 
 
+## How to Run
+
+1. Clone this repository.
+2. Open the project in IntelliJ IDEA.
+3. Run the required Main class.
+
+ ## Author
+
+Wasika Afrin
+
+Java Developer Intern
+
+
